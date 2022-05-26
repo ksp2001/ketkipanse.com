@@ -1,5 +1,5 @@
 # Description
 
-This is my website, which can be found on http://ketkipanse.com
+Source code for [ketkipanse.com](https://ketkipanse.com
 
 Uses React, Create React App, FontAwesome.
